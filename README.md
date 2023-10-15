@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Christian Tapia - ComikSama</h1>
 <h3 align="center">Soy un Frontend Developer y Graphic Designer muy apacionado</h3>
 
-- 🔭 I’m currently working on <a href="http//wwww.aranciopublicidad.com/cotizame" target="blank">Arancio Publicidad</a>
+- 🔭 I’m currently working on [Arancio Publicidad](http://aranciopublicidad.cl/cotizame)
 
 - 🌱 I’m currently learning **Php and Sql**
 
