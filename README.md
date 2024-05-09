@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **html, css, javascript, bootstrap**
 
-- 📫 How to reach me **comiksamadesign@gmail.com**
+- 📫 How to reach me **comiksamadesign@gmail.com** & **christian.tapia.disenoyweb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
