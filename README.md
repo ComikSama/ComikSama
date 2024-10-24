@@ -20,7 +20,7 @@
 <h3 align="left">PROJECTS READY AND IN PRODUCTION</h3>
 <p align="left"><a href="https://www.aranciopublicidad.cl/" target="blank">Arancio Publicidad Spa - La Serena Chile</a></p>
 <p align="left"><a href="https://www.aranciopublicidad.cl/cotizafacil" target="blank">Cotiza - Fácil / Para Arancio Publicidad</a></p>
-<p align="left"><a href="https://inmobiliariaweb2024.000webhostapp.com/" target="blank">Página para Inmobiliarias</a></p>
+<p align="left"><a href="https://www.lsweb.cl/" target="blank">LSWEB - Agencia Diseño y Web</a></p>
 
 <h3 align="left">PORFOLIO WEB</h3>
 <p align="left"><a href="https://comiksama.github.io/porfolio" target="blank">Porfolio Web - Christian Tapia</a></p>
